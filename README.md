@@ -15,6 +15,4 @@ Voice of Choice is a prototype built during Ideatex Ideathon (DevBraze, REVA Uni
 This is a 1-day ideathon prototype. The full vision includes biological signal-based stress detection and personalized voice responses.
 
 ## Demo
-## Demo
-
-![Voice of Choice UI](Screenshot 2026-03-28 205357.png)
+![Voice of Choice UI](voice-of-choice-ui.png)
