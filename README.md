@@ -17,4 +17,4 @@ This is a 1-day ideathon prototype. The full vision includes biological signal-b
 ## Demo
 ## Demo
 
-![Voice of Choice UI](png)
+![Voice of Choice UI](Screenshot 2026-03-28 205357.png)
